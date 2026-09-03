@@ -1,3 +1,7 @@
-# NÉMÉSIS : ONLINE 
+# 【NÉMÉSIS : ONLINE】
 
-## PROJECT
+## FRONTEND
+
+## BACKEND
+
+## DBMS
