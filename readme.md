@@ -1,5 +1,3 @@
-# NÉMÉSIS : ONLINE 
-
 # 【NÉMÉSIS : ONLINE】
 
 ## FRONTEND
