@@ -1,7 +1,5 @@
 # NÉMÉSIS : ONLINE 
 
-## PROJECT
-=======
 # 【NÉMÉSIS : ONLINE】
 
 ## FRONTEND
